@@ -1,1 +1,1 @@
-Dominio: 2.tcp.ngrok.io, Puerto: 15466
+2.tcp.ngrok.io,15466
